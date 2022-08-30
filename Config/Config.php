@@ -6,17 +6,17 @@
 	date_default_timezone_set('America/Mexico_City');
 
 	//Datos de conexión a Base de Datos
-	/*const DB_HOST = "localhost";
+	const DB_HOST = "localhost";
 	const DB_NAME = "db_tiendavirtual";
 	const DB_USER = "root";
 	const DB_PASSWORD = "";
-	const DB_CHARSET = "utf8";*/
+	const DB_CHARSET = "utf8";
 
-	const DB_HOST = "sql300.epizy.com";
+	/*const DB_HOST = "sql300.epizy.com";
 	const DB_NAME = "epiz_32491482_db_tiendavirtual";
 	const DB_USER = "epiz_32491482";
 	const DB_PASSWORD = "NC8PrcjZ3c3z";
-	const DB_CHARSET = "utf8";
+	const DB_CHARSET = "utf8";*/
 
 	//Para envío de correo
 	const ENVIRONMENT = 1; // Local: 0, Produccón: 1;
